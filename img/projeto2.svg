@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Tomate -->
+  <path d="M100,50 C130,40 160,70 150,100 C140,130 110,150 80,140 C50,130 40,100 50,70 C60,40 70,40 100,50 Z" fill="#e74c3c"/>
+  <!-- Folhas -->
+  <path d="M90,45 L80,30 L95,35 Z" fill="#27ae60"/>
+  <path d="M110,45 L120,30 L105,35 Z" fill="#2ecc71"/>
+  <!-- Mordida (pedaço removido) -->
+  <circle cx="130" cy="80" r="15" fill="#f0f0f0"/>
+  <!-- Sombra da mordida -->
+  <circle cx="128" cy="78" r="10" fill="#ddd"/>
+  <text x="100" y="180" text-anchor="middle" font-size="12" fill="#333">Pomodoro</text>
+</svg>
