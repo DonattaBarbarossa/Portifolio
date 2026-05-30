@@ -1,7 +1,7 @@
 # Portfólio Pessoal – Etapa 3  
 **Pedro Barbosa Bastos – Desenvolvedor Web**
 
-Este repositório contém a **Etapa 3** do trabalho prático da disciplina de **Programação Web**, representando a versão final e interativa do meu portfólio pessoal. O projeto integra todas as etapas anteriores (HTML semântico, Bootstrap 5, CSS avançado) e adiciona **interatividade com JavaScript**, **validação de formulário**, **manipulação dinâmica do DOM** e **integração com a API MailerSend** para envio de e-mails.
+Este repositório contém a versão final e interativa do meu portfólio pessoal. O projeto integra todas as etapas anteriores (HTML semântico, Bootstrap 5, CSS avançado) e adiciona **interatividade com JavaScript**, **validação de formulário**, **manipulação dinâmica do DOM** e **integração com a API MailerSend** para envio de e-mails.
 
 ---
 
